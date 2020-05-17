@@ -1,0 +1,25 @@
+{
+  "name": "main-website-nitjsr",
+  "homepage": "http://www.nitjsr.ac.in",
+  "authors": [
+    "creative-tim"
+  ],
+  "description": "main-website-nitjsr",
+  "main": "dist/index.js",
+  "keywords": [
+    "material",
+    "design",
+    "material-ui",
+    "google",
+    "twitter"
+  ],
+  "license": "Official Webteam",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
